@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zSeann
+- 👋 Hi, I’m Sxqnn (Previously known as zSeann)
 - 👀 I’m interested in everything related to Software Development
 - 🌱 I’m currently learning Java
-- 📫 Contact me on Discord: @zSeann
+- 📫 Contact me on Discord: @.sxqnn
